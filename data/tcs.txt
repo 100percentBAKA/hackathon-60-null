@@ -1,0 +1,28 @@
+Global chipmaker Nvidia is eyeing Indian IT services companies for long-term partnerships and banking on delivering its software and AI infrastructure to the end customers.
+At the recent Nvidia AI Summit in Mumbai, founder and CEO Jensen Huang said, “India was earlier focused on IT, the back office, and delivering of software. The next generation of IT is going to be about producing and delivering AI.”
+The country’s largest software exporter, Tata Consultancy Services (TCS), quickly became one of the early beneficiaries of Huang’s bullishness. TCS has unveiled a separate business unit with Nvidia to co-develop industry use cases on artificial intelligence (AI) with the chipmaker.
+In an interview with Moneycontrol, Reguraman Ayyaswamy, Senior Vice President and Global Head of Internet of Things (IoT) and Digital Engineering, TCS, discussed a gamut of issues from the new unit to collaboration strategies with Nvidia, plans to purchase the upcoming Blackwell GPU (graphics processing unit) and the cost of generative AI development and more.
+
+Many Tata Consultancy Services (TCS) employees have seen their variable pay being slashed for the July-September quarter despite adhering to the company's work from office norms as business continues to see demand uncertainty, people privy to the development told Moneycontrol.
+According to sources, while some employees got only about 20-40 percent of their quarterly variable pay out, others even got zero percent. This, compared to the 70 percent pay out given in the previous quarter.
+Apart from compulsory work from office attendance, variable payout for TCS also depends on internal business unit-wise performances. This development sheds light on the ongoing challenging demand scenario and macroeconomic uncertainties that drove the lower single-digit growth reported by the Tier- I IT services companies as of Q2.
+In Q2FY25, TCS reported a 5.5 percent revenue growth year-on-year in constant currency (CC) terms to Rs 64,259 crore. Net profit came in at Rs 11,909 crore.
+
+
+
+Many Tata Consultancy Services (TCS) employees have seen their variable pay being slashed for the July-September quarter despite adhering to the company's work from office norms as business continues to see demand uncertainty, people privy to the development told Moneycontrol.
+According to sources, while some employees got only about 20-40 percent of their quarterly variable pay out, others even got zero percent. This, compared to the 70 percent pay out given in the previous quarter.
+Apart from compulsory work from office attendance, variable payout for TCS also depends on internal business unit-wise performances. This development sheds light on the ongoing challenging demand scenario and macroeconomic uncertainties that drove the lower single-digit growth reported by the Tier- I IT services companies as of Q2.
+In Q2FY25, TCS reported a 5.5 percent revenue growth year-on-year in constant currency (CC) terms to Rs 64,259 crore. Net profit came in at Rs 11,909 crore.
+
+
+Tata Consultancy Services (TCS) on December 12 announced that it has signed a five-year extension of partnership with the second largest mobile operator in the Danish market, Telenor Denmark (TnDK), to provide ITIS managed services, and handle IT infrastructure from its delivery centre in Europe.
+This indicates signs of demand recovery for the IT services major in the telecom space, which had slowed down in the past quarters.
+In the previous six years, TCS had deployed its machine first delivery model to modernise the IT infrastructure of the telecom operator. TnDK serves over 1.6 million subscribers.
+In this extended deal, TCS will also deploy automation technologies to continue delivering operational cost reductions and improved IT infrastructure. TCS will also leverage its extensive experience managing TnDK’s infrastructure to enhance digital assets, including advanced automation solutions.
+
+
+Tata Consultancy Services (TCS) on December 12 announced that it has signed a five-year extension of partnership with the second largest mobile operator in the Danish market, Telenor Denmark (TnDK), to provide ITIS managed services, and handle IT infrastructure from its delivery centre in Europe.
+This indicates signs of demand recovery for the IT services major in the telecom space, which had slowed down in the past quarters.
+In the previous six years, TCS had deployed its machine first delivery model to modernise the IT infrastructure of the telecom operator. TnDK serves over 1.6 million subscribers.
+In this extended deal, TCS will also deploy automation technologies to continue delivering operational cost reductions and improved IT infrastructure. TCS will also leverage its extensive experience managing TnDK’s infrastructure to enhance digital assets, including advanced automation solutions.
